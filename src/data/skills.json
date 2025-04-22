@@ -1,0 +1,170 @@
+[
+  {
+    "name": "A11y",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility"
+  },
+  {
+    "name": "Angular",
+    "url": "https://angular.io/"
+  },
+  {
+    "name": "Apigee",
+    "url": "https://docs.apigee.com/"
+  },
+  {
+    "name": "AWS API Gateway",
+    "url": "https://aws.amazon.com/"
+  },
+  {
+    "name": "AWS Cloud Formation",
+    "url": "https://aws.amazon.com/"
+  },
+  {
+    "name": "AWS DynamoDB",
+    "url": "https://aws.amazon.com/"
+  },
+  {
+    "name": "AWS EC2",
+    "url": "https://aws.amazon.com/"
+  },
+  {
+    "name": "AWS Lambda",
+    "url": "https://aws.amazon.com/"
+  },
+  {
+    "name": "AWS S3",
+    "url": "https://aws.amazon.com/"
+  },
+  {
+    "name": "Bash",
+    "url": "https://en.wikipedia.org/wiki/Bash_(Unix_shell)"
+  },
+  {
+    "name": "Bootstrap",
+    "url": "https://getbootstrap.com/"
+  },
+  {
+    "name": "Concourse CI",
+    "url": "https://concourse-ci.org/"
+  },
+  {
+    "name": "CSS 3",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+  },
+  {
+    "name": "Docker",
+    "url": "https://www.docker.com/"
+  },
+  {
+    "name": "Express JS",
+    "url": "https://expressjs.com/"
+  },
+  {
+    "name": "Gatsby",
+    "url": "https://www.gatsbyjs.com/"
+  },
+  {
+    "name": "Git",
+    "url": "https://git-scm.com/"
+  },
+  {
+    "name": "GraphQL",
+    "url": "https://graphql.org/"
+  },
+  {
+    "name": "Helm",
+    "url": "https://helm.sh/"
+  },
+  {
+    "name": "HTML 5",
+    "url": "https://html.com/"
+  },
+  {
+    "name": "Java",
+    "url": "https://www.java.com/en/"
+  },
+  {
+    "name": "JavaScript",
+    "url": "https://www.javascript.com/"
+  },
+  {
+    "name": "Jenkins",
+    "url": "https://www.jenkins.io/"
+  },
+  {
+    "name": "Kubernetes",
+    "url": "https://kubernetes.io/"
+  },
+  {
+    "name": "Laravel",
+    "url": "https://laravel.com/"
+  },
+  {
+    "name": "Linux",
+    "url": "https://www.linux.com/what-is-linux/"
+  },
+  {
+    "name": "MySQL",
+    "url": "https://www.mysql.com/"
+  },
+  {
+    "name": "Node JS",
+    "url": "https://nodejs.org/en"
+  },
+  {
+    "name": "PHP",
+    "url": "https://www.php.net/"
+  },
+  {
+    "name": "PostgreSQL",
+    "url": "https://www.postgresql.org/"
+  },
+  {
+    "name": "Postman",
+    "url": "https://www.postman.com/"
+  },
+  {
+    "name": "Python",
+    "url": "https://www.python.org/"
+  },
+  {
+    "name": "React",
+    "url": "https://react.dev/"
+  },
+  {
+    "name": "Ruby",
+    "url": "https://www.ruby-lang.org/en/"
+  },
+  {
+    "name": "Sass",
+    "url": "https://sass-lang.com/"
+  },
+  {
+    "name": "Spring Boot",
+    "url": "https://spring.io/projects/spring-boot/"
+  },
+  {
+    "name": "Swagger",
+    "url": "https://swagger.io/"
+  },
+  {
+    "name": "TDD",
+    "url": "https://testdriven.io/test-driven-development/"
+  },
+  {
+    "name": "TypeScript",
+    "url": "https://www.typescriptlang.org/"
+  },
+  {
+    "name": "Vue JS",
+    "url": "https://vuejs.org/"
+  },
+  {
+    "name": "XML",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction"
+  },
+  {
+    "name": "YAML",
+    "url": "https://yaml.org/spec/1.2.2/"
+  }
+]
